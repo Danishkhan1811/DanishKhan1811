@@ -48,7 +48,7 @@ I'm a passionate full-stack developer and AI engineer, focused on building fast,
 ---
 
 ## 📫 Connect on LinkedIn  
-<a href="https://www.linkedin.com/in/danishkhan-18/" target="_blank">
+<a href="https://www.linkedin.com/in/danish-khan18/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
 
