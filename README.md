@@ -14,16 +14,7 @@
 
 <br/>
 
-<!-- About Me -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                       ABOUT ME                               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+## 👤 About Me
 
 I'm a **full-stack developer and AI engineer** who builds fast, scalable, and delightful web experiences. I care deeply about product quality — from the architecture of a backend system to the feel of a UI interaction. I bridge the gap between **robust engineering** and **thoughtful design**.
 
@@ -93,30 +84,22 @@ When I'm not shipping features, I'm experimenting with AI integrations, contribu
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### 🌐 Web Applications
-Full-stack apps powered by modern frameworks — from complex data-driven dashboards to blazing-fast marketing sites. I focus on performance, accessibility, and clean architecture.
-
+      <h3>🌐 Web Applications</h3>
+      <p>Full-stack apps powered by modern frameworks — from complex data-driven dashboards to blazing-fast marketing sites. I focus on performance, accessibility, and clean architecture.</p>
     </td>
     <td valign="top" width="50%">
-
-### 🤖 AI-Powered Tools
-Integrating LLMs, vector databases, and AI APIs into real products. I've built RAG pipelines, AI assistants, semantic search engines, and more.
-
+      <h3>🤖 AI-Powered Tools</h3>
+      <p>Integrating LLMs, vector databases, and AI APIs into real products. I've built RAG pipelines, AI assistants, semantic search engines, and more.</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-
-### 🔌 APIs & Microservices
-Scalable backend services with REST and GraphQL APIs. I design systems that are easy to maintain, extend, and monitor.
-
+      <h3>🔌 APIs & Microservices</h3>
+      <p>Scalable backend services with REST and GraphQL APIs. I design systems that are easy to maintain, extend, and monitor.</p>
     </td>
     <td valign="top" width="50%">
-
-### 📱 Cross-Platform Apps
-Mobile-friendly experiences with Flutter and responsive web design that looks great on every screen size.
-
+      <h3>📱 Cross-Platform Apps</h3>
+      <p>Mobile-friendly experiences with Flutter and responsive web design that looks great on every screen size.</p>
     </td>
   </tr>
 </table>
@@ -153,11 +136,11 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-khandanish.me-64ffda?style=for-the-badge&labelColor=0d1117)](https://khandanish.me)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-https://khandanish.vercel.app/-64ffda?style=for-the-badge&labelColor=0d1117)](https://https://khandanish.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanishKhan1811/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandanish78866@gmail.com)
 
 <br/>
 
