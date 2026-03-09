@@ -33,12 +33,12 @@ When I'm not shipping features, I'm experimenting with AI integrations, contribu
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danish-khan18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-khan18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanishKhan1811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishKhan1811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-khan18&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a2e&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishKhan1811&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a2e&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <br/>
@@ -128,7 +128,7 @@ Mobile-friendly experiences with Flutter and responsive web design that looks gr
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish-khan18&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanishKhan1811&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -138,7 +138,7 @@ Mobile-friendly experiences with Flutter and responsive web design that looks gr
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danish-khan18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DanishKhan1811&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 <br/>
@@ -155,7 +155,7 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 [![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-khandanish.me-64ffda?style=for-the-badge&labelColor=0d1117)](https://khandanish.me)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-khan18/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanishKhan1811/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
