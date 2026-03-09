@@ -118,16 +118,6 @@ When I'm not shipping features, I'm experimenting with AI integrations, contribu
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanishKhan1811&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -136,9 +126,9 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-https://khandanish.vercel.app/-64ffda?style=for-the-badge&labelColor=0d1117)](https://https://khandanish.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-https://khandanish.vercel.app/-64ffda?style=for-the-badge&labelColor=0d1117)](https://khandanish.vercel.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanishKhan1811/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-khan18/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandanish78866@gmail.com)
 
