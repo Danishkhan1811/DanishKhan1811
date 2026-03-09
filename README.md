@@ -24,12 +24,6 @@ When I'm not shipping features, I'm experimenting with AI integrations, contribu
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanishKhan1811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&cache_seconds=1800"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishKhan1811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&cache_seconds=1800&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishKhan1811&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a2e&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
@@ -127,7 +121,7 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-khandanish.vercel.app/-64ffda?style=for-the-badge&labelColor=0d1117)](https://khandanish.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-khandanish.vercel.app-64ffda?style=for-the-badge&labelColor=0d1117)](https://khandanish.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-khan18/)
 &nbsp;
