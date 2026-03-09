@@ -16,7 +16,7 @@
 
 ## 👤 About Me
 
-I'm a **full-stack developer and AI engineer** who builds fast, scalable, and delightful web experiences. I care deeply about product quality — from the architecture of a backend system to the feel of a UI interaction. I bridge the gap between **robust engineering** and **thoughtful design**.
+I'm a **full-stack developer and AI engineer** who builds fast, scalable, and delightful web experiences. I care deeply about product quality, from the architecture of a backend system to the feel of a UI interaction. I bridge the gap between **robust engineering** and **thoughtful design**.
 
 When I'm not shipping features, I'm experimenting with AI integrations, contributing to open source, or sketching out the next side project that'll keep me up at night.
 
@@ -29,50 +29,117 @@ When I'm not shipping features, I'm experimenting with AI integrations, contribu
 
 <br/>
 
----
 
 ## 🧠 Tech Stack
 
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=nuxt" width="50"/><br>Nuxt.js
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>Flutter
+</td>
+</tr>
+</table>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=django" width="50"/><br>Django
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=graphql" width="50"/><br>GraphQL
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>REST API
+</td>
+</tr>
+</table>
 
 ### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0099CC?style=for-the-badge&logoColor=white)
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma
+</td>
+<td align="center" style="border:0;">
+<img src="https://s3.amazonaws.com/appforest_uf/f1679157815668x357855949495047500/io6cC6vZ_400x400.png" width="50"/><br>Pinecone
+</td>
+</tr>
+</table>
 
 ### DevOps & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
+</td>
+<td align="center" style="border:0;">
+<img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify
+</td>
+<td align="center" style="border:0;">
+<img src="https://assets.findstack.com/hf8tetz6wrjfxx6vxooc6igw3tah" width="50"/><br>Render
+</td>
+</tr>
+</table>
 
 </div>
-
 <br/>
 
----
 
 ## 🏗️ What I Build
 
