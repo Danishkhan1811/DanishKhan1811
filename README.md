@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Danish%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:006666,100:00b3b3&height=200&section=header&text=Danish%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=99eeee&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -19,13 +19,6 @@
 I'm a **full-stack developer and AI engineer** who builds fast, scalable, and delightful web experiences. I care deeply about product quality, from the architecture of a backend system to the feel of a UI interaction. I bridge the gap between **robust engineering** and **thoughtful design**.
 
 When I'm not shipping features, I'm experimenting with AI integrations, contributing to open source, or sketching out the next side project that'll keep me up at night.
-
-<br/>
-
-<!-- Stats Row -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishKhan1811&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a2e&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
 
 <br/>
 
@@ -201,4 +194,4 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3b3,50:006666,100:001a1a&height=120&section=footer" width="100%"/>
